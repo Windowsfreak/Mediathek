@@ -4,7 +4,7 @@
 	"author": "Björn Eberhardt",
 	"authorUrl": "https://8bj.de",
 	
-	"sourceUrl": "https://windowsfreak.github.io/MediathekView/SampleConfig.json",
+	"sourceUrl": "https://windowsfreak.github.io/Mediathek/MediathekConfig.json",
 	"repositoryUrl": "https://futo.org",
 	"scriptUrl": "./MediathekScript.js",
 	"version": 23,
