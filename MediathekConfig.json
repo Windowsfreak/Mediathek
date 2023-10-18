@@ -1,0 +1,23 @@
+{
+	"name": "MediathekView",
+	"description": "Online media library for German television broadcasters",
+	"author": "Björn Eberhardt",
+	"authorUrl": "https://8bj.de",
+	
+	"sourceUrl": "https://windowsfreak.github.io/MediathekView/SampleConfig.json",
+	"repositoryUrl": "https://futo.org",
+	"scriptUrl": "./MediathekScript.js",
+	"version": 23,
+	
+	"iconUrl": "./mediathek.png",
+	"id": "da5e25de-1a2d-22df-1612-be89ed1adee6",
+	
+	"scriptSignature": "",
+	"scriptPublicKey": "",
+	"packages": ["Http"],
+	
+	"allowEval": false,
+	"allowUrls": [
+		"mediathekviewweb.de", "akamaihd.net", "utstreaming.zdf.de", "everywhere"
+	]
+}
