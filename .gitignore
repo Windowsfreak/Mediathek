@@ -1,0 +1,4 @@
+*.har
+*.xz
+tmp/
+!tmp/.gitkeep
